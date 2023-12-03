@@ -1,6 +1,6 @@
 ---
 created: 2023-12-03T13:27
-updated: 2023-12-03T14:21
+updated: 2023-12-03T14:23
 ---
 # README
 
@@ -17,7 +17,11 @@ updated: 2023-12-03T14:21
 
 Заметки в основном про АСУТП, но по большей части про программирование PLC, HMI, SCADA, DCS. При написании заметок стараюсь указывать источники.
 
-![[Общее оглавление#Общее оглавление]]
+## Оглавление
+
+- [SIEMENS](https://github.com/ikarpechenko/notes/tree/main/SIEMENS)
+- [MASTER SCADA 4D](https://github.com/ikarpechenko/notes/tree/main/MASTER%20SCADA%204D)
+- [РЕКОМЕНДАЦИИ](https://github.com/ikarpechenko/notes/tree/main/%D0%A0%D0%95%D0%9A%D0%9E%D0%9C%D0%95%D0%9D%D0%94%D0%90%D0%A6%D0%98%D0%98)
 
 ## Про ошибки в заметках
 
