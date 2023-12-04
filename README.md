@@ -10,7 +10,7 @@ updated: 2023-12-03T14:23
 
 ## Основные ссылки
 
-- [Новый](https://github.com/ikarpechenko/notes)  адрес заметок на Github.
+- [Новый](https://github.com/ikarpechenko/notes/blob/main/README.md)  адрес заметок на Github.
 - [Старый](https://karpechenko.atlassian.net/wiki/spaces) адрес заметок на Confluence Cloud.
 
 ## О чем заметки?
