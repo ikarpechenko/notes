@@ -1,4 +1,10 @@
-.obsidian/
+#Настройки obsidian
+.obsidian/ 
+
+#Журнал изменений и т.п.
+_misc/
+
+#Настройки ОС и кешей
 .trash/
 .DS_Store
 
