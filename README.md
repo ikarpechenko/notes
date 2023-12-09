@@ -1,6 +1,6 @@
 ---
 created: 2023-12-03T13:27
-updated: 2023-12-04T20:45
+updated: 2023-12-09T13:29
 ---
 # README
 
@@ -19,6 +19,7 @@ updated: 2023-12-04T20:45
 
 ## Оглавление
 
+- [OMRON](https://github.com/ikarpechenko/notes/tree/main/OMRON)
 - [SIEMENS](https://github.com/ikarpechenko/notes/tree/main/SIEMENS)
 - [MASTER SCADA 4D](https://github.com/ikarpechenko/notes/tree/main/MASTER%20SCADA%204D)
 - [РЕКОМЕНДАЦИИ](https://github.com/ikarpechenko/notes/tree/main/%D0%A0%D0%95%D0%9A%D0%9E%D0%9C%D0%95%D0%9D%D0%94%D0%90%D0%A6%D0%98%D0%98)
